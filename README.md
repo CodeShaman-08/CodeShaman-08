@@ -1,6 +1,6 @@
-# Hi, I'm CodeShaman 👋
+# Hi, Harsh this Side 👋
 
-I build backend systems and write about the bugs I find in my own code.
+Amazed How tech has evolved through times , 
 
 ---
 
