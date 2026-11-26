@@ -1,6 +1,28 @@
 # Hi, Harsh this Side 👋
 
-Amazed How tech has evolved through times , 
+Amazed How tech has evolved through times ,
+
+---
+
+## Featured project — PranaSync
+
+A bio-environmental Ayurvedic dashboard. A short constitution quiz builds your Vata / Pitta / Kapha baseline, then live weather, air quality and wearable signals show where that balance is shifting — with a daily plan for what to eat, when to move and how to wind down.
+
+**▶ Live demo:** https://pranasync.vercel.app
+**Source + what I learnt:** https://github.com/CodeShaman-08/PRANASYnc
+
+> Try it: finish the eight-question quiz, allow location, then open the dashboard. Your baseline stays in your browser.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Three.js · Node.js · Express · Gemini
+
+What it covers:
+
+- Prakriti baseline from the Prakriti200-style trait set
+- Live climate and air quality with reverse-geocoded city names
+- A wearable bridge for personal Fitbit and Apple Watch data
+- Deterministic dosha fusion with an optional AI advisor
+- A white-canvas, grayscale interface built around a live Tridosha orb
+- Deployed free on Vercel
 
 ---
 
@@ -29,17 +51,19 @@ What it covers:
 ## Other projects
 
 - [ERRORPULSE](https://github.com/CodeShaman-08/ERRORPULSE) — a centralized system for monitoring errors.
+- [TradingBOT](https://github.com/CodeShaman-08/TradingBOT) — a market-data trading bot built around mathematical signals.
 
 ---
 
 ## Currently
 
+- Shipping PranaSync: wearable imports, clearer location handling, and a dataset-backed tridosha guide
 - Hardening the banking backend: integration tests for ledger invariants, rate limiting, integer money
 - Building in public: writing up one failure mode at a time
 
 ## Skills
 
-JavaScript · Node.js · Express · MongoDB · REST APIs · JWT auth · Git
+JavaScript · TypeScript · Node.js · Express · Next.js · React · MongoDB · REST APIs · JWT auth · Git
 
 ---
 
