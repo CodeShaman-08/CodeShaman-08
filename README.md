@@ -55,16 +55,5 @@ What it covers:
 
 ---
 
-## Currently
-
-- Shipping PranaSync: wearable imports, clearer location handling, and a dataset-backed tridosha guide
-- Hardening the banking backend: integration tests for ledger invariants, rate limiting, integer money
-- Building in public: writing up one failure mode at a time
-
-## Skills
-
-JavaScript · TypeScript · Node.js · Express · Next.js · React · MongoDB · REST APIs · JWT auth · Git
-
 ---
 
-*Every project here is something I can explain line by line.*
